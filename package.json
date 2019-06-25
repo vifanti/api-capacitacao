@@ -1,0 +1,26 @@
+{
+  "name": "api-capacitacao",
+  "version": "1.0.0",
+  "description": "API Node.js",
+  "main": "server.js",
+  "scripts": {
+    "start": "node server.js",
+    "dev": "nodemon server.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/vifanti/api-capacitacao.git"
+  },
+  "author": "Vinicius Fantinatto <vinicius@fantinatto.com>",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/vifanti/api-capacitacao/issues"
+  },
+  "homepage": "https://github.com/vifanti/api-capacitacao#readme",
+  "dependencies": {
+    "express": "^4.17.1"
+  },
+  "devDependencies": {
+    "nodemon": "^1.19.1"
+  }
+}
